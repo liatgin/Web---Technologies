@@ -1,0 +1,35 @@
+
+body {
+font-size: 20px;
+color: #C71585;
+background-color: #F5F5F5;  
+margin:50px;
+}
+
+h1 {
+color: #C71585;
+background-color: silver;
+text-decoration: none;
+text-transform: uppercase;
+
+border-style: dashed;
+border-width: 3px;
+border-left-width: 3px;
+border-right-width: 3px;
+border-color: #C71585;
+}
+
+h2 {
+color: #C71585;
+background-color: silver;
+text-decoration: none;
+text-transform: uppercase;
+
+border-style: dashed;
+border-width: 3px;
+border-left-width: 3px;
+border-right-width: 3px;
+border-color: #C71585;
+}
+
+
